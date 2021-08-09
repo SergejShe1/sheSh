@@ -135,6 +135,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/proxy-manager-bridge" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfonycasts/verify-email-bundle" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
